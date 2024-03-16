@@ -17,3 +17,5 @@ It Focuses On Being Sleek, With The Software You Love Installed Out-Of-The-Box.
 - Custom Plymouth Boot/Shutdown Animation
 - Custom Ubiquity Slides (In Progress)
 - Custom Default Backdrops/Wallpapers
+
+PengBuntu Is Not Affiliated With Ubuntu Or Canonical.
