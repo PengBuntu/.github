@@ -11,7 +11,7 @@ It Focuses On Being Sleek, With The Software You Love Installed Out-Of-The-Box.
 - DM: LightDM
 - Base: Ubuntu 22.04.4 Desktop AMD64 "Jammy Jellyfish"
 
-# TODO
+## TODO
 
 - Add Cinnamon To "Live" Envioronment/When Trying PengBuntu
 - Custom Plymouth Boot/Shutdown Animation
