@@ -1,12 +1,18 @@
-## Hi there 👋
+## PengBuntu
 
-<!--
+PengBuntu Is a "Linux Distribution" Based On Ubuntu Created With Cubic.
+It Focuses On Being Sleek, With The Software You Love Installed Out-Of-The-Box.
 
-**Here are some ideas to get you started:**
+**⚠️ WARNING! PengBuntu Is Still Highly Experimental And In Development!**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Specifics
+
+- DE: Cinnamon/Budgie
+- DM: LightDM
+- Base: Ubuntu 22.04.4 Desktop AMD64 "Jammy Jellyfish"
+
+# TODO
+
+- Add Cinnamon To "Live" Envioronment/When Trying PengBuntu
+- Custom Plymouth Boot/Shutdown Animation
+- Custom Ubiquity Slides (In Progress)
