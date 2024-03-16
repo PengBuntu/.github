@@ -16,3 +16,4 @@ It Focuses On Being Sleek, With The Software You Love Installed Out-Of-The-Box.
 - Add Cinnamon To "Live" Envioronment/When Trying PengBuntu
 - Custom Plymouth Boot/Shutdown Animation
 - Custom Ubiquity Slides (In Progress)
+- Custom Default Backdrops/Wallpapers
