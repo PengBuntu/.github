@@ -2,6 +2,7 @@
 
 PengBuntu Is a "Linux Distribution" Based On Ubuntu Created With Cubic.
 It Focuses On Being Sleek, With The Software You Love Installed Out-Of-The-Box.
+It Also Serves As An Educational Resource For Those Who Want To Make Their Own Distributions With Cubic.
 
 **⚠️ WARNING! PengBuntu Is Still Highly Experimental And In Development!**
 
