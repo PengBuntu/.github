@@ -15,8 +15,8 @@ It Also Serves As An Educational Resource For Those Who Want To Make Their Own D
 ## TODO
 
 - Add Cinnamon To "Live" Envioronment/When Trying PengBuntu
-- Custom Plymouth Boot/Shutdown Animation
-- Custom Ubiquity Slides (In Progress)
+- Custom Plymouth Boot/Shutdown Animation (In Progress In Assets Repo)
+- Custom Ubiquity Slides (In Progress In Ubiquity-Slides Repo)
 - Custom Default Backdrops/Wallpapers
 
 PengBuntu Is Not Affiliated With Ubuntu Or Canonical.
